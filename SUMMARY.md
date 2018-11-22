@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [序](xu.md)
 
 ## 云计算基础
 
