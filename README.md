@@ -6,9 +6,5 @@
 
 欢迎加微信交流
 
-![](.gitbook/assets/wei-xin-tu-pian-20181122201527.jpg)
-
-![](file:///C:\Users\13887\AppData\Local\Temp\SGPicFaceTpBq\14452\11A26D4C.png)
-
-
+![&#x8774;&#x8776;&#x5251;](.gitbook/assets/wei-xin-tu-pian-20181122201527.jpg)
 
