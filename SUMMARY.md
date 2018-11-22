@@ -21,5 +21,5 @@
 
 ## 感悟随笔
 
-* [Untitled](gan-wu-sui-bi/untitled.md)
+* [Untitled](essay/untitled.md)
 
