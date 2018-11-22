@@ -3,23 +3,23 @@
 * [README](README.md)
 * [Preface](preface.md)
 
-## 云计算基础
+## cloud-compute-basis
 
-* [Untitled](yun-ji-suan-ji-chu/untitled.md)
+* [Untitled](cloud-compute-basis/untitled.md)
 
-## 容器技术
+## container-technology
 
-* [Untitled](rong-qi-ji-shu/untitled.md)
+* [Untitled](container-technology/untitled.md)
 
-## 微服务架构
+## microservices-architecture
 
-* [Untitled](wei-fu-wu-jia-gou/untitled.md)
+* [Untitled](microservices-architecture/untitled.md)
 
-## ServiceMesh
+## Service-Mesh
 
-* [Untitled](servicemesh/untitled.md)
+* [Untitled](service-mesh/untitled.md)
 
-## 感悟随笔
+## informal-essay
 
-* [Untitled](gan-wu-sui-bi/untitled.md)
+* [Untitled](informal-essay/untitled.md)
 
